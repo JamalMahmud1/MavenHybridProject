@@ -1,0 +1,8 @@
+URL=file:///C:/Users/chowd/Desktop/Website.html
+SCROLLTEXT=html/body/marquee/h1/font
+Element=html/body/h1
+FacebookLink= Facebook
+FN=.//*[@id='FN']
+LN=.//*[@id='LN']
+GoogleLink=html/body/a[2]
+Facebook=Click here Facebook
